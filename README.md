@@ -1,4 +1,4 @@
-================== TASKDESK - APLIKASI MANAJEMEN TUGAS
+==== TASKDESK - APLIKASI MANAJEMEN TUGAS ====
 ================================================================
 NAMA APLIKASI
 -------------

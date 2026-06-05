@@ -43,6 +43,43 @@ No  Nama                                    NIM/No. Absen
 3.  Mahendra Brian Pramudya Admaja          (20)
 4.  Sahlan Sahara Qolbi                     (28)
 
+================================================================
+                         PEMBAGIAN TUGAS
+================================================================
+
+1. Diraja Kredo Saujana (8)
+   - Membuat UI/UX Design di Figma
+   - Membuat tampilan (layout) di Android Studio
+   - [tambahkan tugas lainnya]
+
+2. Fatih Daffa Dzaki Al Huda (12)
+   - Membuat visual dan logic di Android Studio
+   - Menyambungkan API ke project Android Studio
+
+3. Mahendra Brian Pramudya Admaja (20)
+   - Membuat Api Serve
+   - Membuat DataBase
+
+4. Sahlan Sahara Qolbi (28)
+   - Membuat Api Serve
+   - Membuat DataBase
+
+================================================================
+                          LINK PENTING
+================================================================
+
+Repository Source Code (Frontend - Android)
+--------------------------------------------
+https://github.com/Ftuffy/TaskDesk-Frontend
+
+Repository Source Code (Backend - Laravel API)
+-----------------------------------------------
+https://github.com/Geyeeem/manajement-Tugas_-BE-.git
+
+Link APK
+---------
+[isi link APK setelah diupload ke Google Drive]
+
 
 ================================================================
                        CARA MENJALANKAN APLIKASI

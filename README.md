@@ -34,7 +34,7 @@ TEKNOLOGI YANG DIGUNAKAN
 ===== ANGGOTA KELOMPOK ==== 
 ================================================================
 
-No  Nama                                    NIM/No. Absen
+No  Nama                                    No. Absen
 --  ----                                    -------------
 1.  Diraja Kredo Saujana                    (8)
 2.  Fatih Daffa Dzaki Al Huda               (12)
@@ -47,7 +47,6 @@ No  Nama                                    NIM/No. Absen
 1. Diraja Kredo Saujana (8)
    - Membuat UI/UX Design di Figma
    - Membuat tampilan (layout) di Android Studio
-   - [tambahkan tugas lainnya]
 
 2. Fatih Daffa Dzaki Al Huda (12)
    - Membuat visual dan logic di Android Studio

@@ -35,6 +35,7 @@ TEKNOLOGI YANG DIGUNAKAN
 - Lainnya      : Coroutines, ViewBinding, SharedPreferences
 
 ================================================================
+                        
                          ANGGOTA KELOMPOK
 
                          

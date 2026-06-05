@@ -1,5 +1,4 @@
-================================================================
-
+================================================================   
                     TASKDESK - APLIKASI MANAJEMEN TUGAS
 ================================================================
 
@@ -34,11 +33,8 @@ TEKNOLOGI YANG DIGUNAKAN
 - Networking   : Retrofit + OkHttp
 - Lainnya      : Coroutines, ViewBinding, SharedPreferences
 
-================================================================
-                        
+================================================================   
                          ANGGOTA KELOMPOK
-
-                         
 ================================================================
 
 No  Nama                                    NIM/No. Absen
@@ -47,3 +43,24 @@ No  Nama                                    NIM/No. Absen
 2.  Fatih Daffa Dzaki Al Huda               (12)
 3.  Mahendra Brian Pramudya Admaja          (20)
 4.  Sahlan Sahara Qolbi                     (28)
+
+
+================================================================
+                       CARA MENJALANKAN APLIKASI
+================================================================
+
+BACKEND (Laravel API):
+1. Clone repository backend
+2. Jalankan: php artisan serve
+3. Jalankan Ngrok: ngrok http 8000
+4. Update BASE_URL di RetrofitClient.kt dengan URL Ngrok
+
+ANDROID:
+1. Clone repository frontend
+2. Buka project di Android Studio
+3. Tambahkan GEMINI_API_KEY di local.properties
+4. Build & Run aplikasi
+
+================================================================
+Kelompok TaskDesk - 2026
+================================================================

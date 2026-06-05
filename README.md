@@ -31,8 +31,7 @@ TEKNOLOGI YANG DIGUNAKAN
 - Networking   : Retrofit + OkHttp
 - Lainnya      : Coroutines, ViewBinding, SharedPreferences
 
-================================================================   
-                         ANGGOTA KELOMPOK
+===== ANGGOTA KELOMPOK ==== 
 ================================================================
 
 No  Nama                                    NIM/No. Absen
@@ -42,8 +41,7 @@ No  Nama                                    NIM/No. Absen
 3.  Mahendra Brian Pramudya Admaja          (20)
 4.  Sahlan Sahara Qolbi                     (28)
 
-================================================================
-                         PEMBAGIAN TUGAS
+===== PEMBAGIAN TUGAS =====
 ================================================================
 
 1. Diraja Kredo Saujana (8)
@@ -63,8 +61,7 @@ No  Nama                                    NIM/No. Absen
    - Membuat Api Serve
    - Membuat DataBase
 
-================================================================
-                          LINK PENTING
+===== LINK PENTING =====
 ================================================================
 
 Repository Source Code (Frontend - Android)
@@ -80,8 +77,7 @@ Link APK
 [isi link APK setelah diupload ke Google Drive]
 
 
-================================================================
-                       CARA MENJALANKAN APLIKASI
+===== CARA MENJALANKAN APLIKASI =====
 ================================================================
 
 BACKEND (Laravel API):

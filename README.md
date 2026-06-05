@@ -92,6 +92,5 @@ ANDROID:
 3. Tambahkan GEMINI_API_KEY di local.properties
 4. Build & Run aplikasi
 
-================================================================
-Kelompok TaskDesk - 2026
+===== Kelompok TaskDesk - 2026 =====
 ================================================================
